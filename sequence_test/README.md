@@ -51,6 +51,8 @@ separate forward-run times for pumps 1, 2, and 3, plus an emergency Stop All
 button. The UI sequence runs pumps in the order 3, 2, 1 and defaults each pump
 to 8 seconds. Use `--dry-run` to test the interface without writing motor outputs.
 
+![AI Box sequence control dashboard](ui-dashboard.png)
+
 Motor mapping from `function_testing`:
 
 - `M1`: Pump 1
