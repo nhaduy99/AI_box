@@ -1,0 +1,6 @@
+-e ../uts-pamod
+pyserial>=3.5
+pyserial-asyncio>=0.6
+adafruit-circuitpython-motorkit
+adafruit-circuitpython-tcs34725
+flask
